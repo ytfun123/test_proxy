@@ -1,8 +1,4 @@
 {
   "version": 2,
-  "buildCommand": "npm install",
-  "startCommand": "node server.js",
-  "env": {
-    "NODE_ENV": "production"
-  }
+  "buildCommand": "npm install"
 }
