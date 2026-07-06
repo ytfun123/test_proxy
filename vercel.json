@@ -3,5 +3,6 @@
   "buildCommand": "npm install",
   "env": {
     "NODE_ENV": "production"
-  }
+  },
+  "framework": "other"
 }
